@@ -12,10 +12,12 @@ Quick Start
 
 Clone and run:
 
-  git clone https://github.com/muthuselvam-ramesh/jackpot-spa.git
-  cd jackpot-spa
-  npm install
-  npm start
+```bash
+git clone https://github.com/muthuselvam-ramesh/jackpot-spa.git
+cd jackpot-spa
+npm install
+npm start
+```
 
 Open http://localhost:3000 in your browser.
 
