@@ -4,7 +4,7 @@ Jackpot SPA
 A React-based single-page application for spa services.
 Built with React, Bootstrap, and deployed to GitHub Pages.
 
-Live: https://Muthuselvam200.github.io/jackpot-spa
+Live: https://muthuselvam-ramesh.github.io/jackpot-spa/
 
 
 Quick Start
@@ -12,7 +12,7 @@ Quick Start
 
 Clone and run:
 
-  git clone https://github.com/Muthuselvam200/jackpot-spa.git
+  git clone https://github.com/muthuselvam-ramesh/jackpot-spa.git
   cd jackpot-spa
   npm install
   npm start
